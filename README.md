@@ -1,2 +1,3 @@
 # hello-world
-when in rome
+
+i can't believe they might let us use git
